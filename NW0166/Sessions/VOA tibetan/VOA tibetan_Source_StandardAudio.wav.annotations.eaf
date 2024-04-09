@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ANNOTATION_DOCUMENT AUTHOR="" DATE="2011-06-24T16:18:11-08:00" FORMAT="2.7" VERSION="2.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.7.xsd">
   <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-    <PROPERTY NAME="lastUsedAnnotationId">300</PROPERTY>
+    <PROPERTY NAME="lastUsedAnnotationId">106200</PROPERTY>
     <MEDIA_DESCRIPTOR MEDIA_URL="VOA tibetan_Source.mp4" MIME_TYPE="video/*" />
     <MEDIA_DESCRIPTOR EXTRACTED_FROM="VOA tibetan_Source.mp4" MEDIA_URL="VOA tibetan_Source_StandardAudio.wav" MIME_TYPE="audio/x-wav" />
   </HEADER>
@@ -309,1504 +309,1504 @@
   </TIME_ORDER>
   <TIER DEFAULT_LOCALE="ipa-ext" LINGUISTIC_TYPE_REF="Transcription" TIER_ID="Transcription">
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105901" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105903" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+        <ANNOTATION_VALUE>བོད་གཞིས་བྱེས་གཉིས་ལ་ཧྦོ་ཡིསི་ཨ་མེ་རི་ཀ་ཨ་རིའི་རླུང་འཕྲིན་ཁང་གིས་འཚམས་འདྲི་ཡོད། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105905" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+        <ANNOTATION_VALUE>ད་ལྟ་བོད་དུ་གཟའ་པ་སངས་ཀི་མཚན་མོའི་ཆུ་ཚོད་བཅུ་བ། རྒྱ་གར་དུ་དགོང་དྲོའི་བདུན་དང་ཕྱེད་ཀའི་ཐོག་དེར་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105907" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+        <ANNOTATION_VALUE>ཨ་རི་ནས་བོད་སྲིད་ཁྱོན་ལ་ཁྱབ་པ་རྒྱང་སྲིད་ཞུས་བའི་ཨ་རིའི་རླུང་འཕྲིན་ཁང་གིས་བོད་སྐད་ཀི་བརྙན་འཕྲིན་ལས་རིམ་ཀུན་གླེང་འགོ་བཙུགས་ཀི་ཡོད། སྔུན་ལ་གཟའ་འཁོར་འདིའི་གསར་འགྱུར་ཕྱོགས་བསྒྲིགས་ཤིག་གི་ནང་དུ་བཅར་འདྲི་ཞུས་ཡ་ལ། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105909" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+        <ANNOTATION_VALUE>ཨ་རིའི་སྲིད་འཛིན་གི་རྒྱལ་ཡོངས་འོས་བསྡུ་ད་ཆ་ཡོངས་སུ་གྲུབ་ཟིན་ན་ཡང་། མཐར་སྲིད་འཛིན་འོས་འདེམས་ཞུ་མཁན་གི་ཨ་རི་འོས་བསྡུ་མཐུུན་ཚོགས་ཀི་འོས་བསྡུ་ད་དུང་ལྷག་ཡོད་བ། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105911" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+        <ANNOTATION_VALUE>སང་ཉིན་དགུ་བ་ལྷ་བབས་དུས་ཆེན་གི་སྐབས་དེར་བོད་ཀི་བླ་ན་མེད་པའི་དབུ་ཁྲིད་སྤྱི་ནོར་གོང་ས་སྐྱབས་མགོན་ཆེན་པོ་མཆོག་གིས་བྱང་ཆུབ་སེམས་འབྲེལ་གི་ཉིན་གསུམ་གི་གསུང་ཆོས་དྲྭ་རྒྱ་བརྒྱུད་དབུ་འཛུགས་མཛད་པ། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105913" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+        <ANNOTATION_VALUE>རྒྱལ་ཁབ་གཅིག་གི་ནང་དུ་ཉིན་མཚན་གཅིག་གི་རིང་ལ་ཏོག་དབྱིབས་ནད་དུག་དེ་མི་འབུམ་གཅིག་ལྷག་ལ་ཁྱབ་པའི་གནས་སྟངས་དང་པོ་དེ་ཨ་མེ་རི་ཁའི་ནང་དུ་གཟའ་འཁོར་དེར་བྱུང་བ་སོགས་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105915" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+        <ANNOTATION_VALUE>གཟའ་འཁོར་འདིའི་གནས་ཚུལ་ཁག་ཅིག་ངོ་སྤྲོད་ཞུ་གི་ཡིན།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105917" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+        <ANNOTATION_VALUE>ཨ་རིའི་སྲིད་འཛིན་གི་ད་ལོའི་རྒྱལ་ཡོངས་འོས་བསྡུ་གཟའ་མིག་དམར་གི་མཚན་མོ་ནས་ཡོངས་སུ་གྲུབ་ཟིན་པ་དང་། ཡིན་ན་ཡང་། ཨ་མེ་རི་ཀའི་ལམ་ལུགས་སུ་མཐར་སྲིད་འཛིན་མཐའ་འོས་འདེམས་ཞུ་མཁན་གི་འོས་བསྡུའི་མཐུན་ཚོགས་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105919" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+        <ANNOTATION_VALUE>ཨེ་ལེཁྀ་ཋོ་རཱལ་ཁོ་ལཱེ་ཇེ་ཞེས་བའི་འོས་ཤོག་ནི་སྤྱི་ཟླ་བཅུ་གཉིས་པའི་ནང་དུ་ཕངས་ཀི་འདུག། ད་ལོའི་རྒྱལ་ཡོངས་ཀི་འོས་ཤོག་གི་གྲུབ་འབྲས་ཐག་གཅོད་ཕྱོགས་ལ་འགོར་གཡོལ་བྱུང་སོང་།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105921" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+        <ANNOTATION_VALUE>ཨ་མེ་རི་ཀའི་ད་ལོའི་རྒྱལ་ཡོངས་རྒྱལ་ཡོངས་འོས་བསྡུ་ཆེན་མོའི་འོས་ཤོག་ཡོངས་སུ་བསྡུས་ཚར་ནས་ཉི་མ་གསུམ་ཕྱིན་ན་ཡང་། འོས་ཤོག་ཁྱོན་གི་གྲངས་ཀ་ད་དུང་བཏོན་ཚར་རྒྱུ་རེད་འདུག། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105923" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+        <ANNOTATION_VALUE>དེར་བརྟེན་སྲིད་འཛིན་གི་འོས་བསྡུ་དེ་སུ་ལ་ཐོབ་མིན་དེ་མཚམས་འདིར་ངེས་བརྟན་མི་འདུག། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105925" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+        <ANNOTATION_VALUE>སྔ་སང་ཁ་ཉིན་ཁ་གཏད་མང་གཙོ་ཚོགས་པས་ཨ་རིའི་སྲིད་འཛིན་གི་འོས་མི་རྗོ་བྷཨི་ཌེན་མཆོག་ལ་ཨ་རིའི་འོས་བསྡུ་འཐུས་ཚབ་ཀིས་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105927" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+        <ANNOTATION_VALUE>འོས་ཤོག་གཉིས་བརྒྱ་བདུན་ཅུ་ཚང་ལ་ཉེས་བ་ལྟ་བུ་རྒྱལ་ཡོངས་ཀི་འོས་ཤོག་ཐོབ་པ་ལྟར་ཞིག་བྱུང་རྗེས། ལས་ཐོག་སྲིད་འཛིན་ཋྀརཱམ་ མཆོག་གིས་འོས་ཤོག་གི་ཐད་དུ་གནད་འགག་ཆེ་སའི་མངའ་སྡེ་ཁག་ཅིག་ཏུ་འོས་ཤོག་གི་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105929" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+        <ANNOTATION_VALUE>གྲངས་བཤེར་དྲང་མོ་མ་བྱུང་པ་སོགས་ཉེས་སྐྱོན་བཙུགས་ནས་ཁྲིམས་གཏུགས་ཀི་ཁ་མཆུ་རིམ་པ་བསྐྱོན་གནང་སོང་། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105931" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+        <ANNOTATION_VALUE>ད་དུང་ས་གནས་ཁ་ཤས་སུ་འོས་ཤོག་གི་གྲངས་བཤེར་ཐད་ལ་སྐྱོན་འཛུགས་དང་ངོ་རྒོལ་རིགས་བྱུང་འདུག། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105933" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+        <ANNOTATION_VALUE>དཔེར་ན། འོས་ཤོག་གི་གྲངས་བཤེར་ད་ལྟ་ཚར་རྒྱུ་ཡིན་སའི་མངའ་སྡེ་ཕེན་སོལ་ཧྦའེ་ནིཡ་རྒྱལ་ས་ཧྤི་ལ་ཌལ་ཧྤི་ཡ་ལྟ་བུར་སྲིད་འཛིན་ཋྀརཱམ་རྒྱབ་སྐྱོར་བ་ ་བརྗོད་པར་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105935" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105937" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+        <ANNOTATION_VALUE>ཕེན་སོལ་ཧྦའེ་ནིཡ་འོས་ཤོག་གྲངས་ཀ་རྒྱབ་སའི་ཁག་ཏུ་མིས་འོས་ཤོག་གྲངས་ཀ་བརྒྱབ་བཞིན་པའི་པར་བརྙན་འཕྲིན་ཐོག་མཐོང་བྱུང་། མི་དེ་ཚོས་བྷཨིཌེན་ གི་པར་ཡོད་པའི་ཁ་རས་དང་སྟོད་གོས་གོན་འདུག་གསུངས། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105939" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+        <ANNOTATION_VALUE>ཡང་བྷཨིཌེན་གི་རྒྱབ་སྐྱོར་བ་ ་གསུངས་པར་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105941" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+        <ANNOTATION_VALUE>འོས་ཤོག་གི་གྲངས་ཀ་མཚམས་བཞག་རྒྱུ་དུས་ཚོད་རང་སྣང་གང་དྲན་ཡིན་ལུགས་ལབ་ན་འོས་བསྡུའི་ཐོབ་ཐང་འཕྲོག་པ་རེད་ཞེས་གསུངས། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105943" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+        <ANNOTATION_VALUE>ཁ་སང་རང་སྐུ་ཞབས་བྷཨིཌེན་གིས་གསུངས་པ་ཞིག་ལ། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105945" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105947" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105949" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+        <ANNOTATION_VALUE>མང་གཙོ་རིང་ལུགས་སྐབས་རེར་རྙོག་པོ་ཡོད་རེད། ད་ཆ་མི་ལོ་ཉིས་བརྒྱ་བཞི་ཅུ་ལྷག་གི་རིང་ལ་འཛམ་བུ་གླིང་གིས་མོས་པའི་འཛིན་སྐྱོང་གི་ལམ་ལུགས་ཤིག་རྒྱལ་ཡོད་རེད་གསུངས་སོང་། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105951" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+        <ANNOTATION_VALUE>དེའི་དུས་མཉམ་ལྟ་བུ་ཞིག་ལ་སྲིད་འཛིན་ཋྀརཱམ་གིས་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105953" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+        <ANNOTATION_VALUE>མང་གཙོ་ཚོགས་པའི་ཁྲིམས་དང་འགལ་བའི་ངང་ལ་འོས་བསྡུ་རྐུ་འཁྱེར་བྱས་པ་སོགས་ཉེས་འཛུགས་སྤེལ་སོང་།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105955" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+        <ANNOTATION_VALUE>ཁྲིམས་མཐུན་གི་འོས་ཤོག་གྲངས་ཀ་བརྒྱབ་ན། ལས་སླ་པོ་ང་ལ་ཐོབ་ཀི་རེད། ཁྲིམས་འགལ་གིས་འོས་ཤོག་གྲངས་ཀ་བརྒྱབ་ན། ཁོང་ཚོ་གིས་ང་ཚོའི་ས་ནས་འོས་བསྡུ་རྐུ་ཡ་ཡོད་རེད་གསུངས་སོང་། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105957" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+        <ANNOTATION_VALUE>སྲིད་འཛིན་ཋྀརཱམ་གིས་ཉེས་སྐྱོན་བཙུགས་པ་བཞིན་བྱུང་པའི་དཔང་རྟགས་ཧ་ཅང་ཉུང་ཉུང་ཡིན་ཀྱང་། ཧྤི་ལ་ཌལ་ཧྤི་ཡ་དང་ནེབ་བྷིརཱ་སྀཀཱ་སོགས་པའི་མངའ་སྡེ་ཁ་ཤས་རང་དུ་འོས་བསྡུའི་གྲུབ་འབྲས་ལ་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105959" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+        <ANNOTATION_VALUE>ཁྲིམས་ཐོག་ནས་ཁ་མཆུ་བཙུགས་རྒྱུའི་ལས་གཞི་བཏིང་པར་དེ་གས་གསར་འགོད་པས་གནས་ཚུལ་བཏང་འདུག། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105961" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+        <ANNOTATION_VALUE>ཨ་རིའི་འོས་བསྡུའི་སྐོར་གི་རྩོམ་པ་པོ་སཱིནཋྀརསྀ་བྷགྷྀ་གིས་ </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105963" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+        <ANNOTATION_VALUE>ངའི་བསམ་ཚུལ་ལ་བྱས་ན། སྲིད་འཛིན་ཋྀརཱམ་གི་ཕྱོགས་གཏོགས་ཀི་འོས་ཤོས་ཀི་གྲངས་ཁྱད་ཁྱད་པར་ཧ་ཅང་ཉུང་ཉུང་བྱུང་སའི་མངའ་སྡེ་ཁག་ཏུ་ཁ་མཆུ་དེའི་རིགས་རྩོད་ནས་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105965" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+        <ANNOTATION_VALUE>མཐར་ཁ་མཆུ་དེ་ཨ་མེ་རི་ཀའི་ཆེ་མཐོའི་ཁྲིམས་ཁང་ལ་སྤོར་བ་ཞིག་རེ་བ་བརྒྱབ་ཀི་ཡོད་རེད་བསམ་གིས། ཆེ་མཐོའི་ཁྲིམས་ཁང་དུ་རང་ལ་བསམ་ཤེས་བྱེད་པའི་མི་ཡོད་བསམ་གི་ཡོད་རེད་བསམ་གི་ཞེས་གསུངས་ཤག། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105967" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+        <ANNOTATION_VALUE>ཁྲིམས་ཐོག་གི་ཁ་མཆུ་དེ་ཚོ་ལ། སྐུ་ཞབས་བྷཨིཌེན་ལས་བྱེེད་ཀིས་ཁག་པོ་བྱུང་བའི་ཐབས་ཇུས་ཞེས་འགྲེལ་བརྗོད་སྤེལ་སོང་། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105969" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+        <ANNOTATION_VALUE>དེ་རིང་དང་བྱུང་འགྱུར་གི་ཉི་མ་ཁ་ཤས་ཀི་ནང་དུ་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105971" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+        <ANNOTATION_VALUE>སྔ་སྡེ་ཨ་ལཱསྀ་ཀ། ཨེ་རི་ཛོ་ནཱ། རྗོར་རྗི་ཡ། བྱང་ ཕེན་སོལ་ཧྦའེ་ནིཡ་བཅས་ཀི་འོས་ཤོག་ཡོངས་ཀི་གྲངས་བཤེར་རིམ་གིས་ཚར་རྒྱུ་དང་། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a73" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105973" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+        <ANNOTATION_VALUE>དེའིི་ནང་ནས་རྗོར་རྗི་ཡ་འོས་ཤོག་ནི་ཨ་རིའི་སྲིད་འཛིན་མ་ཚད། སྤྱི་ཟླ་དང་པོའི་ནང་ལ་གྲོས་ཚོགས་གོང་མ་རུ་ཆབ་སྲིད་ཚོགས་པ་ཤུགས་ཆེ་བ་དེ་སུ་ཆགས་དང་མ་ཆགས་ལ་ད་ལོ་འགག་རྩ་ཞིག་རེད་འདུག།  </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105975" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+        <ANNOTATION_VALUE>ཨ་རིའི་སྲིད་འཛིན་གི་ད་ལོའི་འོས་བསྡུ་དེ་སྐུ་ཞབས་ཋྀརཱམ་དང་བྷ་ཨིཌེན་གཉིས་ནས་སུ་ལ་ཐོབ་རུང་། འབྱུང་འགྱུར་གི་ལོ་གཉིས་པོའི་སྐབས་རིང་ལ་གཞུང་ས་ཝ་ཤིང་ཊོན་དུ་ཆབ་སྲིད་ཅི་ཙམ་གནང་ཐུབ་མིན་ཐད་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105977" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+        <ANNOTATION_VALUE>གྲོས་ཚོགས་གོང་མ་རུ་ཆབ་སྲིད་ཚོགས་པ་ཤུགས་ཆེ་བ་དེ་སུ་ཆགས་མིན་ལ་རག་ལུས་ཀི་འདུག།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a79" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105979" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+        <ANNOTATION_VALUE>གྲོས་ཚོགས་འོག་མ་རུ་མུ་མཐུད་ནས་མང་གཙོ་ཚོགས་པ་ཤུགས་ཆེ་བ་གནས་རྒྱུ་འོས་ཤོག་ཐོབ་འདུག་ཏེ། ཐུགས་འདོད་ལ་ཡོད་པའི་རྒྱལ་ཁ་ཞིག་ད་ལས་སོན་མི་འདུག། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a81" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105981" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a83" TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105983" TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+        <ANNOTATION_VALUE>སང་ཉིན་བོད་རྒྱལ་ལོ་ཉིས་སྟོང་བརྒྱ་དང་བཞི་བཅུ་ཞེ་བདུན་བོད་ཟླ་དགུ་པའི་བོད་ཚེས་ཉི་ཤུ་གཉིས་ལ། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a85" TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105985" TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+        <ANNOTATION_VALUE>སྔར་སྟོན་པ་སངས་རྒྱས་ཤཱཀྱ་ཐུབ་པ་མཆོག་གི་ཡུམ་ལ་བཀའ་འདྲི་གསོ་བའི་བསླབ་བྱ་དང་འབྲེལ་བའི་སྐུ་འབབ་ལྷ་བབས་དུས་ཆེན་གི་དུས་ཆེན་གི་སྐབས་འདིར་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a87" TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105987" TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+        <ANNOTATION_VALUE>བོད་ཀི་བླ་ན་མེད་པའི་དབུ་ཁྲིད་སྤྱི་ནོར་གོང་ས་སྐྱབས་མགོན་ཆེན་པོ་གིས་ཆེད་དུ་བཅར་བའི་ཨུ་རུ་སུའི་ནང་པ་གཙོ་བའི་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a89" TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105989" TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+        <ANNOTATION_VALUE>བོད་དང་འཛམ་གླིང་ཁྱབ་པ་དྲྭ་རྒྱ་བརྒྱུད་ནས་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a91" TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105991" TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+        <ANNOTATION_VALUE>བྱང་ཆུབ་སེམས་ཀི་སྐོར་དང་བྱང་ཆུབ་སེམས་ཀི་ཕན་ཡོན་ཉམས་སུ་ལེན་སྟངས་སོགས་ཀི་སྐོར་ལ་ཉིན་གསུམ་གི་གསུང་ཆོས་དྲྭ་རྒྱ་བརྒྱུད་ནས་དབུ་བཙུགས་མཛད་སོང་། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a93" TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105993" TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+        <ANNOTATION_VALUE>ཞིབ་ཕྲ་བསྟན་འཛིན་བཟང་མོ་ལགས་ཀིས་དྷ་རམ་ས་ལ་ནས་བཏང་གནང་འདུག། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a95" TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105995" TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+        <ANNOTATION_VALUE>ར་ཤི་ཡ་དད་ལྡན་ཆོས་ཞུ་བ་ཚོས་ཇི་ལྟར་གསོལ་འདེབས་ཞུས་བ་བཞིན། བོད་མིའི་མགོན་སྐྱབས་སྤྱི་ནོར་གོང་ས་སྐྱབས་མགོན་ཆེན་པོ་མཆོག་ནས་སྤྱི་ཟླ་བཅུ་གཅིག་པའི་ཚེས་ལྔ་ནས་བདུན་པར་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a97" TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105997" TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+        <ANNOTATION_VALUE>རྒྱལ་པའི་ཕོ་བྲང་ནས་དྲྭ་ལམ་བརྒྱུད་མགོན་པོ་ཀླུ་སྒྲུབ་ཀིས་མཛད་པའི་བྱང་ཆུབ་སེམས་འགྲེལ་གི་ཆོས་འབྲེལ་བཀའ་དྲིན་བསྩལ་གནང་མཛད་བཞིན་ཡོད་པ་ལྟར་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a99" TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105999" TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+        <ANNOTATION_VALUE>ཐོག་མར་ར་ཤི་ཡ་སྐུ་ཚབ་དོན་གཅོད་དང་ཁུལ་དེའི་ཆོས་ཕྱོགས་ཀི་དབུ་ཁྲིད་ཏེ་ལོ་རིན་པོ་ཆེ་མཆོག་གིས་ད་ལན་གསུང་ཆོས་དེའི་རྒྱབ་སྐྱོར་རྣམས་ངོ་སྤྲོང་གནང་རྗེས། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a101" TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106001" TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+        <ANNOTATION_VALUE>གོང་ས་སྐྱབས་མགོན་ཆེན་པོ་མཆོག་གིས་སྔོན་འགྲོ་སྤྱི་བཤད་བསྩལ་གནང་མཛད་པའི་སྐབས། ད་ཁྱེད་རང་ཚོ་ཧོར་གྱི་ཡུལ་སྐོར་བ་ཚོར་ཆ་བཞག་ན། ད་དཔེ་ཆ་བལྟ་ཡ་དེ་ཞེ་བོ་གཅིག་གལ་ཆེན་པོ་རེད་ད། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a103" TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106003" TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+        <ANNOTATION_VALUE>ཤེས་སོང་ང་། དད་པ་རྐྱང་རྐྱང་ལ་མ་བཞག་པ་གྱིས།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105" TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106005" TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
+        <ANNOTATION_VALUE>ང་ཚོས་ད་གཞུང་གི་པོད། པོད་ཐུ་ལྔ། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a107" TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106007" TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
+        <ANNOTATION_VALUE>པོད་ཐུ་ལྔ་སུ་ལབ་པ་ཡིན་ན། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a109" TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106009" TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
+        <ANNOTATION_VALUE>དེའི་གཞུང་ཆེན་པོ་དེ་གས་དེ་སློབ་སྦྱོང་བྱེད་ཡ་དེ་གལ་ཆེན་པོ་ཞེ་དྲག་རེད། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a111" TIME_SLOT_REF1="ts111" TIME_SLOT_REF2="ts112">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106011" TIME_SLOT_REF1="ts111" TIME_SLOT_REF2="ts112">
+        <ANNOTATION_VALUE>དེ་རིང་དྲི་བ་དྲི་ལན་གི་མཛད་རིམ་སྐབས། ཉེ་ཆར་ཡོ་རོབ་ཀི་ཧྤ་རན་སུའི་ཁུལ་དུ་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a113" TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts114">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106013" TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts114">
+        <ANNOTATION_VALUE>ཁ་ཆེ་གཅིག་གིས་ཨེ་ཤེའི་ཆོས་ཁང་གཅིག་གི་ནང་དུ་གྲི་བརྒྱབ་པའི་གནས་ཚུལ་ལས་འཕྲོས་ནས་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a115" TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts116">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106015" TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts116">
+        <ANNOTATION_VALUE>འཛམ་གླིང་ས་ཕྱོགས་གང་སར་ཁ་ཆེར་སྡང་ཟིག་བྱ་ཤུགས་ཆེ་རུ་འགྲོ་བཞིན་པའི་གནས་དོན་དེ་ལུངས་འདྲེན་གིས་ཕྱོགས་གཉིས་བར་ཞི་འཇམ་ཡོང་རྒྱུར་ཐབས་ལམ་གང་ཡོད་པའི་ལམ་སྟོན་ཞུས་པའི་སྐབས་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a117" TIME_SLOT_REF1="ts117" TIME_SLOT_REF2="ts118">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106017" TIME_SLOT_REF1="ts117" TIME_SLOT_REF2="ts118">
+        <ANNOTATION_VALUE>བོད་མའི་མགོན་སྐྱབས་སྤྱི་ནོར་གོང་ས་སྐྱབས་མགོན་ཆེན་པོ་མཆོག་གིས་ཡོ་རོབ་རྒྱལ་ཁབ་ནང་དམག་ཆེན་གཉིས་པའི་བར་དཀའ་སྡུག་དུ་མ་བྱུང་བའི་མྱོང་བ་ལ་གཞིགས་ནས་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a119" TIME_SLOT_REF1="ts119" TIME_SLOT_REF2="ts120">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106019" TIME_SLOT_REF1="ts119" TIME_SLOT_REF2="ts120">
+        <ANNOTATION_VALUE>ད་ལྟའི་དུས་སྐབས་སུ་ཡོ་རོབ་ཡུལ་གྲུ་ཁག་དགོངས་པ་བཞེས་ཕྱོགས་བཅས་པ་ཡར་རྒྱས་ཤུགས་ཆེར་ཕྱིན་ཡོད་པ་གཟིགས་བཞིན་ཡོད་པའི་དགོངས་ཚུལ་གསུངས་པ་དང་ཆབས་ཅིག། འཕྲལ་སེལ་གི་རྐྱེན་གཅིག་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a121" TIME_SLOT_REF1="ts121" TIME_SLOT_REF2="ts122">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106021" TIME_SLOT_REF1="ts121" TIME_SLOT_REF2="ts122">
+        <ANNOTATION_VALUE>ཆུང་ཙག་ཅིག་རེད་མ་གཏོགས། དེ་ཆེོན་པོ་བཟོས་ནས་རྦད་ཁ་ཆེ་ཡོངས་རྫོགས་ལ་དེ་འདྲ་རེད་སེ་ལབ་ཐུབ་ཡ་ཡོད་མ་རེད། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a123" TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts124">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106023" TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts124">
+        <ANNOTATION_VALUE>དཔེར་ན་འཁྲུག་པ་བརྒྱབ། རྒྱག་རེས་བརྒྱབ་མྱི་ནང་པའི་ནང་ལ་ཡོད་རེད། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a125" TIME_SLOT_REF1="ts125" TIME_SLOT_REF2="ts126">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106025" TIME_SLOT_REF1="ts125" TIME_SLOT_REF2="ts126">
+        <ANNOTATION_VALUE>ཁྱེད་རང་ཚོས་སོག་པའི་ནང་ལ་ཨེ་ནས་ནང་པ་རེད། ཡང་གསོད་རེས་དང་དེ་འདྲ་ཡོང་གི་ཡོད་རེད། ཡིན་ནས་དེ་ཁོ་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a127" TIME_SLOT_REF1="ts127" TIME_SLOT_REF2="ts128">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106027" TIME_SLOT_REF1="ts127" TIME_SLOT_REF2="ts128">
+        <ANNOTATION_VALUE>ཁ་ཐུག་ཁ་ཐུག་གིས་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a129" TIME_SLOT_REF1="ts129" TIME_SLOT_REF2="ts130">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106029" TIME_SLOT_REF1="ts129" TIME_SLOT_REF2="ts130">
+        <ANNOTATION_VALUE>ཁོ་གནས་ཚུལ་བྱེ་བྲག་པ་གཅིག་དེ་འདྲ་ཁོ་ཡོང་གི་རེད། ད་ལྟ་ཡོ་རོབ་ལ་གནས་ཚུལ་དེ་འདྲའི་གནས་ཚུལ་བྱུང་པ་དེ། ཁོ་ཁ་ཐུག་ཁ་ཐུག་གི་རྐྱེན་གཅིག་རེད། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a131" TIME_SLOT_REF1="ts131" TIME_SLOT_REF2="ts132">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106031" TIME_SLOT_REF1="ts131" TIME_SLOT_REF2="ts132">
+        <ANNOTATION_VALUE>ད་འདི་ཨེ་ནས་རྦད་དེ་ ་ཁ་ཆེ་ཡོངས་རྫོགས་ལ་དེ་འདྲ་ཡིན་པའི་ཟོལ་འདྲ་བོ། གཅིག། ཆོས་བ་ཡོངས་རྫོགས་ལ་དེ་འདྲ་ཡིན་པའི་ཟོལ་འདྲ་བསམ་བློ་བཏང་ན། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a133" TIME_SLOT_REF1="ts133" TIME_SLOT_REF2="ts134">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106033" TIME_SLOT_REF1="ts133" TIME_SLOT_REF2="ts134">
+        <ANNOTATION_VALUE>ཨེ་ནས་ཁོ། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a135" TIME_SLOT_REF1="ts135" TIME_SLOT_REF2="ts136">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106035" TIME_SLOT_REF1="ts135" TIME_SLOT_REF2="ts136">
+        <ANNOTATION_VALUE>བསམ་བློ་གཏོང་སྟངས་ཁོ་རང་མ་འགྲིག་པ་རེད་བ་ད། ར་ཤི་ཡ་གྲོང་ཁྱེར་སཱིནཐྀ་པི་ཋྀརསྀ་བྷགྷྀ་བཅས་ནས་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a137" TIME_SLOT_REF1="ts137" TIME_SLOT_REF2="ts138">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106037" TIME_SLOT_REF1="ts137" TIME_SLOT_REF2="ts138">
+        <ANNOTATION_VALUE>ཐད་གཏོང་གསུང་ཆོས་ཞུ་མཁན་ཡོད་པའི་ཁྲོད་བོད་མི་དད་ལྡན་པ་ཞིག་གིས་སོ་སོའི་ནང་མི་སྤུན་གཉེན་བཅས་པར་ནད་ནར་ལ་སོགས་པའི་དཀའ་སྡུག་བྱུང་པའི་སྐབས་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a139" TIME_SLOT_REF1="ts139" TIME_SLOT_REF2="ts140">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106039" TIME_SLOT_REF1="ts139" TIME_SLOT_REF2="ts140">
+        <ANNOTATION_VALUE>ནང་ཆོས་ཉམས་ལེན་བརྒྱུད་ནས་གདོང་ལེན་ཞུ་ཕྱོགས་སྐོར་ལམ་སྟོན་བཀའ་སློབ་ཞུ་དུས། གོང་ས་སྐྱབས་མགོན་ཆེན་པོ་མཆོག་ནས་འཁོར་བ་སྡུག་བསྔལ་གི་རྒྱ་མཚཽའི་ནང་སྐྱེ་རྒས་ན་འཆིའི་སྡུག་བསྔལ་ཡོད་ཡོད་པ་ཡིན་པ་དང་། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a141" TIME_SLOT_REF1="ts141" TIME_SLOT_REF2="ts142">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106041" TIME_SLOT_REF1="ts141" TIME_SLOT_REF2="ts142">
+        <ANNOTATION_VALUE>ཆེ་ས་འཛམ་གླིང་དེ་ཡང་རིམ་པས་འཇིགས་རྒྱུ་ཡོད་པའི་དངོས་ཡོད་ཀི་གནས་ཚུལ་རྣམས་ངོ་སྤྲོད་གནང་རྗེས། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a143" TIME_SLOT_REF1="ts143" TIME_SLOT_REF2="ts144">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106043" TIME_SLOT_REF1="ts143" TIME_SLOT_REF2="ts144">
+        <ANNOTATION_VALUE>དཀའ་སྡུག་འཕྲད་པའི་སྐབས་སུ་རྒྱལ་སྲས་ཆེན་པོ་ཞི་བ་ལྷ་ཡི་གསུང་ལས་གདོང་ལེན་ཞུ་ཕྱོགས་ཤིག་ལམ་སྟོན་གནང་གསལ། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a145" TIME_SLOT_REF1="ts145" TIME_SLOT_REF2="ts146">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106045" TIME_SLOT_REF1="ts145" TIME_SLOT_REF2="ts146">
+        <ANNOTATION_VALUE>འབད་བརྩོན་བྱས་ན་ཨེ་ནས་ཁོ་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a147" TIME_SLOT_REF1="ts147" TIME_SLOT_REF2="ts148">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106047" TIME_SLOT_REF1="ts147" TIME_SLOT_REF2="ts148">
+        <ANNOTATION_VALUE>ག་རེ་ཟེར་དགོས། དྲགས་ཡ་གཅིག། སྡུག་བསྔལ་གཅིག་སེལ་ཡ་གཅིག་མ་བྱུང་ན། ད་སྤྱིར་བཏང་ད། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a149" TIME_SLOT_REF1="ts149" TIME_SLOT_REF2="ts150">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106049" TIME_SLOT_REF1="ts149" TIME_SLOT_REF2="ts150">
+        <ANNOTATION_VALUE>ནང་པའི་ཆོས་བྱེད་མྱི་གཅིག་ཡིན་པ་ཡིན་ན། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a151" TIME_SLOT_REF1="ts151" TIME_SLOT_REF2="ts152">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106051" TIME_SLOT_REF1="ts151" TIME_SLOT_REF2="ts152">
+        <ANNOTATION_VALUE>ད་སོ་སོའི་ལས་རེད་སེ་ཟེར་ནས་བསམ་བློ་བཏང་ན། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a153" TIME_SLOT_REF1="ts153" TIME_SLOT_REF2="ts154">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106053" TIME_SLOT_REF1="ts153" TIME_SLOT_REF2="ts154">
+        <ANNOTATION_VALUE>ཨེ་ནས་བསྡོམས་བདེ་ཤོས་རེད། གཞི་རྩིའི་ར་ཤི་ཡ་ཆོས་འབྲེལ་དེ་བཞིན། སྤྱི་ལོ་ཉིས་སྟོང་དགུ་ལོར་ཐོག་མར་དབུ་འཛིན་གནང་པ་ཞིག་དང་། སྤྱི་ལོ་ཉིས་སྟོང་བཅུ་བཞི་ལོ་ནས་ཆོས་འབྲེལ་ཁག་ཅིག་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a155" TIME_SLOT_REF1="ts155" TIME_SLOT_REF2="ts156">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106055" TIME_SLOT_REF1="ts155" TIME_SLOT_REF2="ts156">
+        <ANNOTATION_VALUE>ལཏི་ཧྦི་ཡ་རྒྱལ་ས་རི་གྷ་བསྐྱངས་གནད་ཡོད་པ་རེད།  བཞུགས་སྒར་དྷ་རམ་ས་ལ་ནས་ཨ་རིའི་རླུང་འཕྲིན་ཁང་གི་གསར་འགོད་པ་བསྟན་འཛིན་བཟང་མོ་ཡིན། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a157" TIME_SLOT_REF1="ts157" TIME_SLOT_REF2="ts158">
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106057" TIME_SLOT_REF1="ts157" TIME_SLOT_REF2="ts158">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a159" TIME_SLOT_REF1="ts159" TIME_SLOT_REF2="ts160">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106059" TIME_SLOT_REF1="ts159" TIME_SLOT_REF2="ts160">
+        <ANNOTATION_VALUE>རྒྱལ་ཁབ་གཅིག་གི་ནང་དུ་ཉིན་མཚན་གཅིག་རིང་ལ་ཏོག་དབྱིབས་ནད་དུག་དེ་འབུམ་གཅིག་ལྷག་ལ་ཁྱབ་པའི་གནས་སྟངས་དང་པོ་དེ་གཟའ་འཁོར་འདིར་ཨ་མེ་རི་ཀའི་ནང་དུ་བྱུང་པ་དང་། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a161" TIME_SLOT_REF1="ts161" TIME_SLOT_REF2="ts162">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106061" TIME_SLOT_REF1="ts161" TIME_SLOT_REF2="ts162">
+        <ANNOTATION_VALUE>འདས་བའི་བདུན་ཕྲག་གཅིག་གི་ནང་ལ་བལ་ཡུལ་དུ་བོད་པ་གཉིས་ཙམ་དང་། རྒྱ་གར་དུ་བོད་པ་བརྒྱ་བཅུ་གྱ་ལྔ་ཙམ་ལ་ནད་དུག་དེ་འགོས་པ་སོགས་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a163" TIME_SLOT_REF1="ts163" TIME_SLOT_REF2="ts164">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106063" TIME_SLOT_REF1="ts163" TIME_SLOT_REF2="ts164">
+        <ANNOTATION_VALUE>གཟའ་འཁོར་འདིའི་སྐབས་ཀི་ནད་ཡམ་དེ་དང་འབྲེལ་བའི་གནས་ཚུལ་ཕྱོགས་བསྡུས་ཤིག་གཤམ་ལ་བཅར་འདྲི་ཞུ་གི་ཡིན།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a165" TIME_SLOT_REF1="ts165" TIME_SLOT_REF2="ts166">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106065" TIME_SLOT_REF1="ts165" TIME_SLOT_REF2="ts166">
+        <ANNOTATION_VALUE>དེ་རིང་གཟའ་པ་སངས་ཀི་ཨ་རིའི་འཕར་གྲངས་ལ་གཟིགས་ན། ཨ་མེ་རི་ཀ་ནི་འཛམ་བུ་གླིང་གི་ནང་དུ་ཏོག་དབྱིབས་ནད་དུག་མང་ཤོས་ཁྱབ་ས་གི་རྒྱལ་ཁབ་མུ་མཐུད་ནས་རེད་འདུག། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a167" TIME_SLOT_REF1="ts167" TIME_SLOT_REF2="ts168">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106067" TIME_SLOT_REF1="ts167" TIME_SLOT_REF2="ts168">
+        <ANNOTATION_VALUE>ནད་དུག་གསར་བ་དེ་ལོ་འགོར་རྒྱ་ནག་ནས་ཁྱབ་པ་ནས་བཟུང་། ད་བར་དུ་ཨ་མེ་རི་ཀའི་ནང་དུ་མི་ས་ཡ་དགུ་དང་འབུམ་དགུ་ཙམ་ལ་ནད་དུག་དེ་ཁྱབ་སྤེལ་ཟིན་འདུག། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a169" TIME_SLOT_REF1="ts169" TIME_SLOT_REF2="ts170">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106069" TIME_SLOT_REF1="ts169" TIME_SLOT_REF2="ts170">
+        <ANNOTATION_VALUE>སྡོད་གནས་ཀི་སྨན་པ་ ནད་རིགས་དེ་ ་མཁས་པས་ཉེན་བརྡ་བཏང་པ་ནི། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a171" TIME_SLOT_REF1="ts171" TIME_SLOT_REF2="ts172">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106071" TIME_SLOT_REF1="ts171" TIME_SLOT_REF2="ts172">
+        <ANNOTATION_VALUE>ཁྱབ་ཚད་དངམ་སྐྲག་ཚ་བོ་རེད། དཔྱིད་དུས་སྐབས་ནས་སྡུག་ག་མེད་ན། སྡུག་དུས་སྡུག་གི་རེད་གསུངས་ཀི།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a173" TIME_SLOT_REF1="ts173" TIME_SLOT_REF2="ts174">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106073" TIME_SLOT_REF1="ts173" TIME_SLOT_REF2="ts174">
+        <ANNOTATION_VALUE>ད་ལྟའི་སྟོན་ཁ་དེ་གཡོལ་ནས་དགུས་དུས་ཀི་གནམ་གྲང་ལ་འགྲོ་དུས། གནམ་དུས་དེའི་སྐོར་ཨ་རི་བ་ཚོས་ནད་དུག་དེའི་ཁྱབ་བརྡལ་ལ་དམ་དྲག་མ་བགྱིས་ཚེ། དཀའ་ངལ་སྡུག་ཏུ་འགྲོ་ཉེན་མཁས་པ་ཚོས་ཉེན་བརྡ་བཏང་གི་འདུག། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a175" TIME_SLOT_REF1="ts175" TIME_SLOT_REF2="ts176">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106075" TIME_SLOT_REF1="ts175" TIME_SLOT_REF2="ts176">
+        <ANNOTATION_VALUE>ཨ་རི་མིན་པའི་གཞན་དུ་གཟིགས་ན། ནད་དུག་དེ་མང་ཤོས་ཁྱབ་སའི་རྒྱལ་ཁབ་གཉིས་པ་ནི། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a177" TIME_SLOT_REF1="ts177" TIME_SLOT_REF2="ts178">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106077" TIME_SLOT_REF1="ts177" TIME_SLOT_REF2="ts178">
+        <ANNOTATION_VALUE>རྒྱ་གར་དང་གསུམ་པ་བྷར་ཛེལ། བཞི་བ་ཨུ་རུ་སུ། དེའི་རྗེས་སུ་ཧྤ་རན་སི། སི་པན། ཨར་རྗན་ཊི་ན། ཁོ་ལུམ་བྷེ་ཡ། ཡུ་ཀའེ་སོགས་རེད་འདུག། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a179" TIME_SLOT_REF1="ts179" TIME_SLOT_REF2="ts180">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106079" TIME_SLOT_REF1="ts179" TIME_SLOT_REF2="ts180">
+        <ANNOTATION_VALUE>ཨུ་རུ་སུར་ཁྱབ་གདལ་ལྡོག་ཐབས་ལ་ས་ཆ་ཁ་ཤས་སུ་ཁ་རས་གོན་དགོས་པ་བཟོས་པ་ཞིག་དང་། དེ་བཞིན་སྒྲིག་གཞི་གཞན་བསམ་ཤེས་བྱེད་བཞིན་པ་རེད་འདུག། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a181" TIME_SLOT_REF1="ts181" TIME_SLOT_REF2="ts182">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106081" TIME_SLOT_REF1="ts181" TIME_SLOT_REF2="ts182">
+        <ANNOTATION_VALUE>འདི་གར་མོསྀ་ཁའོ་གི་ ་གསུངས་པར།  སྟོན་ཁར་བཟོ་ཚོང་སྒོ་བརྒྱབ་པ་སོགས་ཀིས་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a183" TIME_SLOT_REF1="ts183" TIME_SLOT_REF2="ts184">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106083" TIME_SLOT_REF1="ts183" TIME_SLOT_REF2="ts184">
+        <ANNOTATION_VALUE>བཀག་སྡོམ་དེ་ང་ལ་འདོད་པ་མེད། བཀག་སྡོམ་དེའི་རིགས་ནི་དཔལ་འབྱོར་གི་དར་རྒུད་ལ་འབྲེལ་ཡོད་རེད། ཡིན་ནས། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a185" TIME_SLOT_REF1="ts185" TIME_SLOT_REF2="ts186">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106085" TIME_SLOT_REF1="ts185" TIME_SLOT_REF2="ts186">
+        <ANNOTATION_VALUE>ཟ་ཁང་གི་སྒོའི་བར་དུ་ཁ་རས་གོན། ཟ་ཁང་གི་ནང་དུ་བསྡད་དུས། ནད་འབུ་རྒྱས་པ་ལྟ་བུ། ཁ་རས་ལམ་སང་བུད་པ་དེའི་རིགས་ལ་་ང་ཡ་མཚར་གི་འདུག་གསུངས་ཤག། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a187" TIME_SLOT_REF1="ts187" TIME_SLOT_REF2="ts188">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106087" TIME_SLOT_REF1="ts187" TIME_SLOT_REF2="ts188">
+        <ANNOTATION_VALUE>ཡོ་རོབ་ཁུལ་དུ་ནད་དུག་དེའི་ཁྱབ་གདལ་ཡང་བསྐྱར་ཆེ་རུ་ཕྱིན་པའི་དཀའ་ངལ་སེལ་ཐབས་ལ་ཧྤ་རན་སི། འཇའ་མན དབྱིན་ཡུལ་སོགས་པས་བཀག་སྡོམ་གི་རིགས་བཀོད་འདོམ་དང་། ཨི་ཊ་ལི། སི་པན་དང་ ཡོ་རོབ་ཀིས་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a189" TIME_SLOT_REF1="ts189" TIME_SLOT_REF2="ts190">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106089" TIME_SLOT_REF1="ts189" TIME_SLOT_REF2="ts190">
+        <ANNOTATION_VALUE>གང་སར་སྒྲིག་གཞི་འདྲ་མིན་བཀོད་འདོམས་ཡོད་པའི་སྐབས་དེར་གྷི་རི་སི་སང་ཉིན་ནས་སྨན་དང་ཟས་ཀི་མིན་པའི་ཚོང་ཁང་སོགས་ཁག་ཅིག་སྒོ་བརྒྱབ་དགོས་བའིབཀག་སྡོམ་ཁ་སང་་གསལ་བསྒྲགས་གནང་སོང་། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a191" TIME_SLOT_REF1="ts191" TIME_SLOT_REF2="ts192">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106091" TIME_SLOT_REF1="ts191" TIME_SLOT_REF2="ts192">
+        <ANNOTATION_VALUE>་བཙན་བྱོལ་དུ་གཟའ་འཁོར་དེའི་སྐབས་ཀི་བོད་པའི་གནས་ཚུལ་སྐོར་ལ། ཁ་སང་དབུས་བོད་མིའི་སྒྲིག་འཛུགས་ཀི་སྨན་པ་ཚེ་རིང་མཚམས་གཅོད་ལགས་ཀིས་ངོ་སྤྲོང་གནང་གསལ་ལ། བདུན་ཕྲག་འདིའི་ནང་ལོགས་ལ་བོད་མི་གི་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a193" TIME_SLOT_REF1="ts193" TIME_SLOT_REF2="ts194">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106093" TIME_SLOT_REF1="ts193" TIME_SLOT_REF2="ts194">
+        <ANNOTATION_VALUE>གཞི་ཆགས་ཁག་ལ་ནད་གཞི་ཕོག་པའི་གྲངས་ཀ་དེ་བརྒྱ་བཅུ་གྱ་བདུན་ཆགས་བསྡད་ཀི་འདུག། དེ་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a195" TIME_SLOT_REF1="ts195" TIME_SLOT_REF2="ts196">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106095" TIME_SLOT_REF1="ts195" TIME_SLOT_REF2="ts196">
+        <ANNOTATION_VALUE>རྒྱ་གར་ནང་ལོགས་ལ་མི་བརྒྱ་བཅུ་གྱ་ལྔ་དང་། ཨེ་ནས་བལ་ཡུལ་ཀ་ཐ་མན་ཌུ་ཁུལ་ལ་མི་གཉིས་བཅས། བསྡོམས་པས་མི་བརྒྱ་ཅུ་གྱ་བདུན་འདུག་སེ་ཆགས་བསྡད་ཀི་འདུག། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a197" TIME_SLOT_REF1="ts197" TIME_SLOT_REF2="ts198">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106097" TIME_SLOT_REF1="ts197" TIME_SLOT_REF2="ts198">
+        <ANNOTATION_VALUE>ཞིབ་ཕྲ་ཞུས་བ་ཡིན་ན། ད་ལྟ་འདི་རེད་ཤག། ཅོང་ཏ་ར་ཁུལ་ནས་མི་གསུམ་བྱུང་ཤག། རྡེ་ར་རྡུན་ནས་གཅིག། ལ་དྭགས་ན་ཉི་ཤུ་རྩ་བཞི།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a199" TIME_SLOT_REF1="ts199" TIME_SLOT_REF2="ts200">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106099" TIME_SLOT_REF1="ts199" TIME_SLOT_REF2="ts200">
+        <ANNOTATION_VALUE>དྷ་རམ་ས་ལ་ཁུལ་ནས་མི་གྲངས་གཉིས། ལྡི་ལི་ཁུལ་ནས་བཞི། མོན་གྷོ་ཌི་ཁུལ་ནས་སུམ་ཅུ་སོ་བཞི། ་ཁུལ་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a201" TIME_SLOT_REF1="ts201" TIME_SLOT_REF2="ts202">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106101" TIME_SLOT_REF1="ts201" TIME_SLOT_REF2="ts202">
+        <ANNOTATION_VALUE>མི་གྲངས་གཉིས། བྷེ་ལ་ཀོབ་པེ་ཁུལ་ནས་མི་གྲངས་བཅོ་ལྔ་བཅས་བསྡོམས་པ་གིས་རྒྱ་གར་ནང་ལོགས་ལ་མི་གྲངས་བརྒྱད་བཅུ་གྱ་བདུན་འདུག་སེ་བྱུང་བསྡད་ཤག་ཞུས་ཡ་ཡིན།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a203" TIME_SLOT_REF1="ts203" TIME_SLOT_REF2="ts204">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106103" TIME_SLOT_REF1="ts203" TIME_SLOT_REF2="ts204">
+        <ANNOTATION_VALUE>ཡོ་རོབ་ཀི་རྒྱལ་ཁབ་ཨོ་སྀ་ཐྀ་རི་ཡ་རྒྱལ་ས་བི་ཡན་ནཱ་གཟའ་ཟླ་བའི་དགོང་མོར་མི་བཞི་དམར་གསོད་བྱུང་བའི་དྲག་སྤྱོད་དའི་ཐད་ལ་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a205" TIME_SLOT_REF1="ts205" TIME_SLOT_REF2="ts206">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106105" TIME_SLOT_REF1="ts205" TIME_SLOT_REF2="ts206">
+        <ANNOTATION_VALUE>གིས་ལོན་ཌོན་ནས་བཏང་པའི་གནས་ཚུལ་བསོད་ནམས་གཡང་འཚོ་ལགས་ཀིས་བོད་སྐད་དུ་སྙན་སྒྲོན་ཞུ་གནང་གི་རེད། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a207" TIME_SLOT_REF1="ts207" TIME_SLOT_REF2="ts208">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106107" TIME_SLOT_REF1="ts207" TIME_SLOT_REF2="ts208">
+        <ANNOTATION_VALUE>ཨོ་སྀ་ཋྀ་རི་ཡ་རྒྱལ་ས་བི་ཡན་ནཱ་རུ་གཟའ་ཟླ་བའི་དགོང་དྲོར་བྲེལ་ཟིང་ཆེ་བའི་ས་གནས་སུ་དེ་སྔོན་ཁ་ཆེ་རྒྱ་ཁབ་འཇིག་སྐུལ་ཚོགས་པའི་ནང་ཞུགས་ཆེད་སེ་རི་ཨཱལ་ལ་བྲོས་ཐབས་བྱས་མྱོང་ཡོད་པ་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a209" TIME_SLOT_REF1="ts209" TIME_SLOT_REF2="ts210">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106109" TIME_SLOT_REF1="ts209" TIME_SLOT_REF2="ts210">
+        <ANNOTATION_VALUE>འཇིགས་སྐུལ་བར་བརྩི་པ་རང་ལོ་ཉི་ཤུ་སོན་པ་མིང་ལ་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a211" TIME_SLOT_REF1="ts211" TIME_SLOT_REF2="ts212">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106111" TIME_SLOT_REF1="ts211" TIME_SLOT_REF2="ts212">
+        <ANNOTATION_VALUE>་ལགས་ཀིས་མི་མདའ་བརྒྱབ་པའི་རྐྱེན་གིས་མི་བཞི་ཡི་སྲོག་ཤོར་ཡོད་པ་དང་། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a213" TIME_SLOT_REF1="ts213" TIME_SLOT_REF2="ts214">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106113" TIME_SLOT_REF1="ts213" TIME_SLOT_REF2="ts214">
+        <ANNOTATION_VALUE>མི་མང་པོར་རྨས་སྐྱོན་ཕོག་ཡོད་པ་རེད། ཉེན་རྟོག་པས་གནོད་འཚེ་སྐྱེལ་མཁན་ལ་མེ་མདའ་བརྒྱབ་ཏེ་བསད། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a215" TIME_SLOT_REF1="ts215" TIME_SLOT_REF2="ts216">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106115" TIME_SLOT_REF1="ts215" TIME_SLOT_REF2="ts216">
+        <ANNOTATION_VALUE>གཞུང་གིས་དོན་རྐྱེན་དེར་མི་གཅིག། ཡང་ན་མི་གཅིག་ལས་མང་བ་དང་འབྲེལ་བ་ཡོད་མེད་ཞིབ་འཇུག་བྱེད་བཞིན་པ་རེད། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a217" TIME_SLOT_REF1="ts217" TIME_SLOT_REF2="ts218">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106117" TIME_SLOT_REF1="ts217" TIME_SLOT_REF2="ts218">
+        <ANNOTATION_VALUE>ཁོ་རང་ནི་ཨོ་སྀ་ཋྀ་རི་ཡ་དང་བྱང་མཱ་སྀ་ཌོ་ནི་ཡ་བཅས་རྒྱལ་ཁབ་གཉིས་ཀའི་མི་སེར་ཡིན་ཞིང་། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a219" TIME_SLOT_REF1="ts219" TIME_SLOT_REF2="ts220">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106119" TIME_SLOT_REF1="ts219" TIME_SLOT_REF2="ts220">
+        <ANNOTATION_VALUE>ཁ་ཆེ་རྒྱལ་ཁབ་འཇིགས་སྐུལ་ཚོགས་པས་དེ་སྔོན་ཡོ་རོབ་ནང་རྒོལ་རྡུང་ཐེངས་མང་པོ་བཏང་པ་རྣམས་འགན་འཁུར་ངོས་ལེན་བྱས་པ་ལྟར། གཟའ་མིག་དམར་ཉིན་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a221" TIME_SLOT_REF1="ts221" TIME_SLOT_REF2="ts222">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106121" TIME_SLOT_REF1="ts221" TIME_SLOT_REF2="ts222">
+        <ANNOTATION_VALUE>ཁ་ཆེ་རྒྱལ་ཁབ་ཀི་དམག་མི་ཞིག་གིས་མི་བསད་རྒྱུའི་ལས་ཀ་དེ་བརྩམས་ཡོད་པ། དྲིལ་བསྒྲགས་ཚན་པོས་བརྗོད་འདུག། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a223" TIME_SLOT_REF1="ts223" TIME_SLOT_REF2="ts224">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106123" TIME_SLOT_REF1="ts223" TIME_SLOT_REF2="ts224">
+        <ANNOTATION_VALUE>ཨོ་སི་ཊི་ལི་ཡ་སྲིད་འཛིན་ གིས་གཟའ་མིག་དམར་ཉིན་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a225" TIME_SLOT_REF1="ts225" TIME_SLOT_REF2="ts226">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106125" TIME_SLOT_REF1="ts225" TIME_SLOT_REF2="ts226">
+        <ANNOTATION_VALUE>རྒྱལ་ཁབ་ནང་ཡེ་ཤེ་དང་ཁ་ཆེ་བར་དམག་བརྒྱབ་ཀི་མེད། འོན་ཀྱང་། དེ་ནི་དཔལ་ཡོན་ལྡན་པའི་སྤྱི་ཚོགས་དང་ཀླ་ཀློའི་སྤྱོད་ཚུལ་གི་ཁྱད་པར་ལ་བརྩིས་འདུག། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a227" TIME_SLOT_REF1="ts227" TIME_SLOT_REF2="ts228">
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106127" TIME_SLOT_REF1="ts227" TIME_SLOT_REF2="ts228">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a229" TIME_SLOT_REF1="ts229" TIME_SLOT_REF2="ts230">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106129" TIME_SLOT_REF1="ts229" TIME_SLOT_REF2="ts230">
+        <ANNOTATION_VALUE>འདི་ནི་སྡང་སེམས་བཅིངས་བའི་རྒོལ་རྡུང་ཤིག་རེད། ང་ཚོས་གཞི་རྩིའི་རིན་ཐང་ལ་སྡང་སེམས་བསྐྱེད་པ་དང་། ང་ཚོས་མི་ཚེ་སྐྱེལ་སྟངས་ལ་སྡང་སེམས་སྐྱེས་བ། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a231" TIME_SLOT_REF1="ts231" TIME_SLOT_REF2="ts232">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106131" TIME_SLOT_REF1="ts231" TIME_SLOT_REF2="ts232">
+        <ANNOTATION_VALUE>ང་ཚོའི་མང་གཙོའི་ནང་མི་མང་ཚང་མར་ཐོབ་ཐང་དང་། མཐོང་འདྲ་མཉམ་ཡོད་པར་སྡང་སེམས་སྐྱེས་པ་རེད། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a233" TIME_SLOT_REF1="ts233" TIME_SLOT_REF2="ts234">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106133" TIME_SLOT_REF1="ts233" TIME_SLOT_REF2="ts234">
+        <ANNOTATION_VALUE>གཞུང་གིས་ད་ལྟའི་ཆར་གནོད་འཚེ་སྐྱེལ་མཁན་ལ་ཕྱི་རྒྱལ་ནས་ལམ་སྟོན་འབྱོར་ཡོད་མེད། ཡང་ན་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a235" TIME_SLOT_REF1="ts235" TIME_SLOT_REF2="ts236">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106135" TIME_SLOT_REF1="ts235" TIME_SLOT_REF2="ts236">
+        <ANNOTATION_VALUE>ཁ་ཆེ་རྒྱལ་ཁབ་འཇིགས་སྐུལ་ཚོགས་པས་སེམས་འགུལ་བཏང་པ་ཙམ་ཡིན་མིན་ཐད། བསྡོམས་བརྒྱབ་རྒྱུ་སྔ་དྲག་པ་རེད་ཅེས་བརྗོད་ཡོད། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a237" TIME_SLOT_REF1="ts237" TIME_SLOT_REF2="ts238">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106137" TIME_SLOT_REF1="ts237" TIME_SLOT_REF2="ts238">
+        <ANNOTATION_VALUE>ཡང་ན་ཉེན་རྟོག་པས་མི་མང་ལ་དོན་རྐྱེན་འབྱུང་སྐབས་རང་ངོས་ནས་བརྙན་པར་ལེན་པ་རྣམས་སྤྱི་ཚོགས་དྲྭ་རྒྱར་བཀོད་རྒྱོའི་ཚབ་ཏུ་ཁོང་ཚོར་སྤྲོད་དེ། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a239" TIME_SLOT_REF1="ts239" TIME_SLOT_REF2="ts240">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106139" TIME_SLOT_REF1="ts239" TIME_SLOT_REF2="ts240">
+        <ANNOTATION_VALUE>མེ་མདའ་རྒྱག་མཁན་གིས་རྒྱ་སྲང་འགྲུལ་ལམ་གང་དུ་སོང་བའི་ཞིབ་འཇུག་ལ་རོགས་བྱེད་དགོས་པ་བརྗོད་ཡོད།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a241" TIME_SLOT_REF1="ts241" TIME_SLOT_REF2="ts242">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106141" TIME_SLOT_REF1="ts241" TIME_SLOT_REF2="ts242">
+        <ANNOTATION_VALUE>་ལ་ཡི་གློག་བརྙན་ལ་ཞིབ་འཇུག་པར་བལྟས་སྐབས། ཉེ་ཆར་སྤྱི་ཚོགས་དྲྭ་རྒྱའི་སྟེང་ལ་ཁོ་རང་གི་ལུས་པོར་མཚོན་ཆ་བཏགས་པའི་པར་བཞག་པ་མཚོན་ནག་ཉེས་བསགས་པའི་དཔང་རྟགས་རྙེད་ཡོད་པ་རེད། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a243" TIME_SLOT_REF1="ts243" TIME_SLOT_REF2="ts244">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106143" TIME_SLOT_REF1="ts243" TIME_SLOT_REF2="ts244">
+        <ANNOTATION_VALUE>ཨོ་སྀ་ཋྀ་རི་ཡ་སྲིད་འཛིན་ ་གིས་ཡོ་རོབ་མཐུན་ཚོགས་ཀི་ཆབ་སྲིད་ཅན་ཏུ་འགྱུར་བའི་ཁ་ཆེ་ཆོས་ལུགས་ནི་ལྟ་གྲུབ་ཐོག་ནས་ཡོ་རོབ་པས་མི་ཚེ་སྐྱེལ་སྟངས་ཀི་སྒྲོམ་གཞིར་ཉེན་ཁ་མཚོན་གི་ཡོད་པ་བརྟེན། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a245" TIME_SLOT_REF1="ts245" TIME_SLOT_REF2="ts246">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106145" TIME_SLOT_REF1="ts245" TIME_SLOT_REF2="ts246">
+        <ANNOTATION_VALUE>དེ་ལ་གདོང་ལེན་བྱེད་དགོས་ཞེས་འཇའ་མན་གི་གསར་ཤོག་ཌི་ བཅར་འདྲིའི་སྐབས་སུ་གསུངས་འདུག། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a247" TIME_SLOT_REF1="ts247" TIME_SLOT_REF2="ts248">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106147" TIME_SLOT_REF1="ts247" TIME_SLOT_REF2="ts248">
+        <ANNOTATION_VALUE>ཨོ་སྀ་ཋྀ་རི་ཡ་རྒྱལ་ས་ནི་ ་འཛམ་གླིང་ནང་མི་ཚེ་ཆ་རྐྱེན་ལེགས་ཤོས་ངང་སྐྱེལ་སའི་ས་གནས་ཤིག་ཡིན་པ་དང་། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a249" TIME_SLOT_REF1="ts249" TIME_SLOT_REF2="ts250">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106149" TIME_SLOT_REF1="ts249" TIME_SLOT_REF2="ts250">
+        <ANNOTATION_VALUE>རྒྱུན་དུ་ཞི་བདེ་ཆེ་བའི་གྲོང་ཁྱེར་ཞིག་ཡིན་ཀྱང་། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a251" TIME_SLOT_REF1="ts251" TIME_SLOT_REF2="ts252">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106151" TIME_SLOT_REF1="ts251" TIME_SLOT_REF2="ts252">
+        <ANNOTATION_VALUE>སྲུང་སྐྱོབ་མི་སྣས་གསལ་བོར་བཤད་པར་མི་སྒེར་བ་གཅིག་གིས་མཚོན་ཆ་ཉོ་ཐུབ་པ་དང་། གནོད་པ་ཆེན་པོ་ག་འདྲ་བྱས་ཏེ་སྐྱེལ་ཐུབ་ཡོད་པའི་སྐོར་ད་ལྟའི་གཞུང་ལ་དྲི་བ་སླེབས་རྒྱུ་ཡིན་པ་རེད། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a253" TIME_SLOT_REF1="ts253" TIME_SLOT_REF2="ts254">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106153" TIME_SLOT_REF1="ts253" TIME_SLOT_REF2="ts254">
+        <ANNOTATION_VALUE> ཉེན་རྟོག་པས་མི་བསད་མཁན་སྐོེར་ཞིབ་འཇུག་བྱས་པའི་སྐབས། སིཝི་སིར་ལཱན་ཌི་ནས་མི་གཉིས་འཛིན་བཟུང་བྱས་ཡོད་པ་དང་། ཁོ་རང་གི་ཕ་ཡུལ་མཱ་སྀ་ཌོ་ནི་ཡ་རུ་ཞིབ་འཇུག་བྱས་པའི་སྐབས་སུ་ས་གནས་ནས་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a255" TIME_SLOT_REF1="ts255" TIME_SLOT_REF2="ts256">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106155" TIME_SLOT_REF1="ts255" TIME_SLOT_REF2="ts256">
+        <ANNOTATION_VALUE>མཉམ་ལས་བྱས་ཡོད་པ་རེད། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a257" TIME_SLOT_REF1="ts257" TIME_SLOT_REF2="ts258">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106157" TIME_SLOT_REF1="ts257" TIME_SLOT_REF2="ts258">
+        <ANNOTATION_VALUE>གཟའ་འཁོར་གི་གསར་འགྱུར་ཕྱོགས་བསྡུས་དེ་མཇུག་སྒྲིལ་མ་ཞུས་བའི་གོང་ལ་གནས་ཚུལ་གཞན་ཁག་ཅིག་གཤམ་ལ་བཅར་འདྲི་ཞུ་གི་ཡིན།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a259" TIME_SLOT_REF1="ts259" TIME_SLOT_REF2="ts260">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106159" TIME_SLOT_REF1="ts259" TIME_SLOT_REF2="ts260">
+        <ANNOTATION_VALUE>ཉིས་སྟོང་བརྒྱད་ལ་ ་སྲིད་བློན་དང་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a261" TIME_SLOT_REF1="ts261" TIME_SLOT_REF2="ts262">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106161" TIME_SLOT_REF1="ts261" TIME_SLOT_REF2="ts262">
+        <ANNOTATION_VALUE>ཉིས་སྟོང་བཅུ་དྲུག་ལ་སྲིད་འཛིན་ལ་འདེམས་བཀོད་བྱུང་པ། ཁོང་དང་གཞན་ཁག་ཅིག་གིས་སྤྱི་ལོ་ཆིག་སྟོང་དགུ་བརྒྱ་དགུ་བཅུ་གོ་བརྒྱད་དང་། གོ་དགུ་ ་ཪང་བཙན་དམག་འཐབ་ཀི་སྐབས་སུ་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a263" TIME_SLOT_REF1="ts263" TIME_SLOT_REF2="ts264">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106163" TIME_SLOT_REF1="ts263" TIME_SLOT_REF2="ts264">
+        <ANNOTATION_VALUE>ཞི་བའི་མི་སྡེ་བརྒྱ་མ་ཟིན་ཙམ་དམར་གསོད་བཏང་པ་སོགས་ཀིས་དམག་གི་དུས་སུ་ཉེས་ཆོས་གསར་བ། ཁྲིམས་ཁང་ནས་ཉེས་འཛུགས་བྱུང་སྟེ་དེ་ལྟར་འཛིན་བཟུང་བྱུང་འདུག།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a265" TIME_SLOT_REF1="ts265" TIME_SLOT_REF2="ts266">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106165" TIME_SLOT_REF1="ts265" TIME_SLOT_REF2="ts266">
+        <ANNOTATION_VALUE>སྲིད་འཛིན་ཟུར་བ་དེས་ནག་ཉེས་དེ་ཚོ་ངོས་ལེན་གནང་མི་འདུག། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a267" TIME_SLOT_REF1="ts267" TIME_SLOT_REF2="ts268">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106167" TIME_SLOT_REF1="ts267" TIME_SLOT_REF2="ts268">
+        <ANNOTATION_VALUE>ཡང་ཨ་རིའི་ལྷོ་ཕྱོགས་ཀི་རྒྱལ་ཁབ་མེག་སི་ཁོ་རྒྱལ་སྲུང་བློན་ཆེན་ཁོང་ </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a269" TIME_SLOT_REF1="ts269" TIME_SLOT_REF2="ts270">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106169" TIME_SLOT_REF1="ts269" TIME_SLOT_REF2="ts270">
+        <ANNOTATION_VALUE>ཞེས་བ་དེར་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a271" TIME_SLOT_REF1="ts271" TIME_SLOT_REF2="ts272">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106171" TIME_SLOT_REF1="ts271" TIME_SLOT_REF2="ts272">
+        <ANNOTATION_VALUE>རྒྱལ་ཁབ་ཀི་རྒྱལ་སྲུང་བློན་ཆེན་གནང་བའི་སྐབས་སུ་ཡང་ ་ནག་ཚོང་ཆེན་པོ་དང་ལག་འབྲེལ་བྱས་པ་སོགས་ཀི་ཉེས་འཛུགས་ཀི་འོག་འདས་བའི་སྤྱི་ཟླ་བཅུ་བའི་ནང་དུ་ཨ་རིའི་གྲོང་ཁྱེར་ལོ་སྀ་ཨན་གྷེལ་སྀ་ གནམ་ཐང་དུ།  </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a273" TIME_SLOT_REF1="ts273" TIME_SLOT_REF2="ts274">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106173" TIME_SLOT_REF1="ts273" TIME_SLOT_REF2="ts274">
+        <ANNOTATION_VALUE>ཨ་མེ་རི་ཀས་འཛིན་བཟུང་བྱས་པ་དང་། ཁྲིམས་བཤེར་གི་སླད་དུ་ནིའུ་ཡོག་ཏུ་བཀག་སྐྱིལ་གི་འོག་ཡོད་ཀྱང་། ཁ་སང་ཁྲིམས་ཁང་དུ་ནག་ཉེས་གང་ངོས་ལེན་བྱས་མི་འདུག </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a275" TIME_SLOT_REF1="ts275" TIME_SLOT_REF2="ts276">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106175" TIME_SLOT_REF1="ts275" TIME_SLOT_REF2="ts276">
+        <ANNOTATION_VALUE>ཁྲིམས་བཤེས་རྗེས་མ་ཕྱི་ཚེས་བཅོ་བརྒྱད་ལ་རེད་འདུག། རྒྱལ་ཁབ་ཀི་རྒྱལ་སྲུང་བློན་ཆེན་ཟུར་བ་དེར་གནས་ཚུལ་དེ་དག་ཐོས་དུས། མེག་སི་ཁོ་རུ་གཞུང་མང་ཧང་སང་དགོས་བྱུང་འདུག། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a277" TIME_SLOT_REF1="ts277" TIME_SLOT_REF2="ts278">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106177" TIME_SLOT_REF1="ts277" TIME_SLOT_REF2="ts278">
+        <ANNOTATION_VALUE>རྒྱ་གར་དུ་མི་མང་གིས་དགའ་མོས་བྱེད་པའི་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a279" TIME_SLOT_REF1="ts279" TIME_SLOT_REF2="ts280">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106179" TIME_SLOT_REF1="ts279" TIME_SLOT_REF2="ts280">
+        <ANNOTATION_VALUE>གྲས་ཀི་བརྙན་འཕྲིན་གི་གསར་འགོད་པ་ ཞུ་བ་ལ་ མ་ཧ་རཤིཏྲའི་ཉེས་རྟོག་པས་གློ་བུར་གཟའ་ལྷག་པར་འཛིན་བཟུང་དང་། དེ་ནས་ཉིས་སྟོང་བཅོ་བརྒྱད་ལོར་རང་སྲོག་བཅད་པའི་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a281" TIME_SLOT_REF1="ts281" TIME_SLOT_REF2="ts282">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106181" TIME_SLOT_REF1="ts281" TIME_SLOT_REF2="ts282">
+        <ANNOTATION_VALUE>དོན་རྐྱེན་ཞིག་ལ་ངན་སྐུལ་བྱེད་ལུགས་ཀི་འོག་ཁ་སང་ནས་ཉི་མ་བཅོ་བརྒྱད་ཀི་རིང་བཙོན་ཁང་དུ་བཅུག་པ་ཞིག་དང་། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a283" TIME_SLOT_REF1="ts283" TIME_SLOT_REF2="ts284">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106183" TIME_SLOT_REF1="ts283" TIME_SLOT_REF2="ts284">
+        <ANNOTATION_VALUE>གསར་འགོད་ཀི་ལས་རིགས་ལ་རུས་ངར་བའི་གསར་འགོད་པའི་ཐད་ཉེ་ཆར་གནས་ཚུལ་ཁག་ཅིག་མཐར་ཕྱིན་པ་ཡོང་ཐབས་ཀི་གསར་འགོེད་ལས་དོན་སྤེལ་བ་ལ་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a285" TIME_SLOT_REF1="ts285" TIME_SLOT_REF2="ts286">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106185" TIME_SLOT_REF1="ts285" TIME_SLOT_REF2="ts286">
+        <ANNOTATION_VALUE>འཁོན་ལན་ལ་དེ་ལྟར་བྱུང་པར་བརྗོད་མཁན་དེ་འདྲ་བྱུང་པ་དང་།  གསར་འགོད་པར་དེ་ལྟར་བྱས་ན་མི་འགྲིག་པ་སྲིད་བློན་མོ་ཌིའི་ཆབ་སྲིད་ཚོགས་པ་ཐེ་བས་མང་པོས་སྐྱོན་བརྗོད་བྱེད་བཞིན་པའི་གནས་ཚུལ་འདུག། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a287" TIME_SLOT_REF1="ts287" TIME_SLOT_REF2="ts288">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106187" TIME_SLOT_REF1="ts287" TIME_SLOT_REF2="ts288">
+        <ANNOTATION_VALUE>བྱང་ཨ་རིའི་བོད་ཀི་དོན་གཅོད་སྐུ་ཚབ་ཀིས་ཁ་ཉིན་རྒྱ་མིའི་སློབ་དཔོན་ ལ་དྲྭ་ཐོག་བཅར་འདྲི་གནང་ནས་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a289" TIME_SLOT_REF1="ts289" TIME_SLOT_REF2="ts290">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106189" TIME_SLOT_REF1="ts289" TIME_SLOT_REF2="ts290">
+        <ANNOTATION_VALUE>བོད་ནི་རྒྱལ་རབས་ལོ་རྒྱུས་རང་ནས་རྒྱ་མི་ཆ་ཤས་རྩ་བ་ནས་མིན་པ་ཞིག་སློབ་དཔོན་དེས་དེབ་བྲིས་གནང་ཡོད་པ་དེའི་ནང་དོན་གི་བགྲོ་གླེང་སྤེལ་གནང་འདུག།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a291" TIME_SLOT_REF1="ts291" TIME_SLOT_REF2="ts292">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106191" TIME_SLOT_REF1="ts291" TIME_SLOT_REF2="ts292">
+        <ANNOTATION_VALUE>རྒྱ་ནག་གཞུང་གིས་བཙན་འཛུལ་བྱས་ཡོད་པའི་བོད་དུ་ ་ཟེར་བའི་རྒྱ་མིའི་བྱེད་སྒོ་ཞིག་གི་འོག་ཏུ་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a293" TIME_SLOT_REF1="ts293" TIME_SLOT_REF2="ts294">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106193" TIME_SLOT_REF1="ts293" TIME_SLOT_REF2="ts294">
+        <ANNOTATION_VALUE>བོད་ཀི་རི་ལུང་གི་ཕ་མེས་ཀི་ལོ་རྒྱུས་ཡོད་པའི་ས་ཆགས་རྡོ་ཆགས་ཀི་ཞིང་འབྲོག་མང་པོ་གཞན་དུ་སྤོར་བཅུག་ནས་འགྱུར་ལྡོག་བཏང་བཞིན་པ་དེའི་འོག་ཏུ་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a295" TIME_SLOT_REF1="ts295" TIME_SLOT_REF2="ts296">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106195" TIME_SLOT_REF1="ts295" TIME_SLOT_REF2="ts296">
+        <ANNOTATION_VALUE>དཔེར་ན། སྔར་ལོ་ནས་མདོ་སྨད་ཀི་གཅན་རྩ་རྫོང་གི་ ་གྲོང་སྡེ་དང་། སོག་རྫོང་གི་གྲོང་སྡེ། མདོ་བ། དེ་བཞིན་གཙང་གཞིས་ཀ་རྩེའི་གམ་ལངས་ཁུལ་སོགས་སུ་ གྲོང་ཁྱེར་ཅན་དུ་བསྒྱུར་རྒྱུ་བཟོས་ནས་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a297" TIME_SLOT_REF1="ts297" TIME_SLOT_REF2="ts298">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106197" TIME_SLOT_REF1="ts297" TIME_SLOT_REF2="ts298">
+        <ANNOTATION_VALUE>ཚོ་བ་རང་དབང་ཅན་གི་བོད་ཀི་ཞིང་འབྲོག་མང་པོའི་ས་ཆ་འཕྲོག་པ་དང་། ཁང་པ་གཞན་དུ་སྤོར་བཅུག་པའི་དཀའ་ངལ་འཕྲད་བཞིན་པ་བོད་ཀི་དུས་བབ་ལ་གནས་ཚུལ་མཁོ་སྤྲོད་བྱུང་འདུག། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a299" TIME_SLOT_REF1="ts299" TIME_SLOT_REF2="ts300">
-        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106199" TIME_SLOT_REF1="ts299" TIME_SLOT_REF2="ts300">
+        <ANNOTATION_VALUE>རེས་གཟའ་པ་སངས་ཀི་གསར་འགྱུར་ཕྱོགས་བསྡུ་དེ་བཅར་འདྲི་ཞུས་གྲུབ་པ་ཡིན། ཚང་མས་ཐུགས་འཇགས་གནང་དགོས། གཟའ་འཁོར་རྗེས་མར་མཇལ་ཡོང་།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
   </TIER>
   <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="Translation" PARENT_REF="Transcription" TIER_ID="Phrase Free Translation">
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a2" ANNOTATION_REF="a1">
+      <REF_ANNOTATION ANNOTATION_ID="a105902" ANNOTATION_REF="a105901">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a4" ANNOTATION_REF="a3">
+      <REF_ANNOTATION ANNOTATION_ID="a105904" ANNOTATION_REF="a105903">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a6" ANNOTATION_REF="a5">
+      <REF_ANNOTATION ANNOTATION_ID="a105906" ANNOTATION_REF="a105905">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a8" ANNOTATION_REF="a7">
+      <REF_ANNOTATION ANNOTATION_ID="a105908" ANNOTATION_REF="a105907">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a10" ANNOTATION_REF="a9">
+      <REF_ANNOTATION ANNOTATION_ID="a105910" ANNOTATION_REF="a105909">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a12" ANNOTATION_REF="a11">
+      <REF_ANNOTATION ANNOTATION_ID="a105912" ANNOTATION_REF="a105911">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a14" ANNOTATION_REF="a13">
+      <REF_ANNOTATION ANNOTATION_ID="a105914" ANNOTATION_REF="a105913">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a16" ANNOTATION_REF="a15">
+      <REF_ANNOTATION ANNOTATION_ID="a105916" ANNOTATION_REF="a105915">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a18" ANNOTATION_REF="a17">
+      <REF_ANNOTATION ANNOTATION_ID="a105918" ANNOTATION_REF="a105917">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a20" ANNOTATION_REF="a19">
+      <REF_ANNOTATION ANNOTATION_ID="a105920" ANNOTATION_REF="a105919">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a22" ANNOTATION_REF="a21">
+      <REF_ANNOTATION ANNOTATION_ID="a105922" ANNOTATION_REF="a105921">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a24" ANNOTATION_REF="a23">
+      <REF_ANNOTATION ANNOTATION_ID="a105924" ANNOTATION_REF="a105923">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a26" ANNOTATION_REF="a25">
+      <REF_ANNOTATION ANNOTATION_ID="a105926" ANNOTATION_REF="a105925">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a28" ANNOTATION_REF="a27">
+      <REF_ANNOTATION ANNOTATION_ID="a105928" ANNOTATION_REF="a105927">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a30" ANNOTATION_REF="a29">
+      <REF_ANNOTATION ANNOTATION_ID="a105930" ANNOTATION_REF="a105929">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a31">
+      <REF_ANNOTATION ANNOTATION_ID="a105932" ANNOTATION_REF="a105931">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a34" ANNOTATION_REF="a33">
+      <REF_ANNOTATION ANNOTATION_ID="a105934" ANNOTATION_REF="a105933">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a36" ANNOTATION_REF="a35">
+      <REF_ANNOTATION ANNOTATION_ID="a105936" ANNOTATION_REF="a105935">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a38" ANNOTATION_REF="a37">
+      <REF_ANNOTATION ANNOTATION_ID="a105938" ANNOTATION_REF="a105937">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a39">
+      <REF_ANNOTATION ANNOTATION_ID="a105940" ANNOTATION_REF="a105939">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a41">
+      <REF_ANNOTATION ANNOTATION_ID="a105942" ANNOTATION_REF="a105941">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a43">
+      <REF_ANNOTATION ANNOTATION_ID="a105944" ANNOTATION_REF="a105943">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a45">
+      <REF_ANNOTATION ANNOTATION_ID="a105946" ANNOTATION_REF="a105945">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a47">
+      <REF_ANNOTATION ANNOTATION_ID="a105948" ANNOTATION_REF="a105947">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a49">
+      <REF_ANNOTATION ANNOTATION_ID="a105950" ANNOTATION_REF="a105949">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a52" ANNOTATION_REF="a51">
+      <REF_ANNOTATION ANNOTATION_ID="a105952" ANNOTATION_REF="a105951">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a53">
+      <REF_ANNOTATION ANNOTATION_ID="a105954" ANNOTATION_REF="a105953">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a55">
+      <REF_ANNOTATION ANNOTATION_ID="a105956" ANNOTATION_REF="a105955">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a57">
+      <REF_ANNOTATION ANNOTATION_ID="a105958" ANNOTATION_REF="a105957">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a59">
+      <REF_ANNOTATION ANNOTATION_ID="a105960" ANNOTATION_REF="a105959">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a61">
+      <REF_ANNOTATION ANNOTATION_ID="a105962" ANNOTATION_REF="a105961">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a63">
+      <REF_ANNOTATION ANNOTATION_ID="a105964" ANNOTATION_REF="a105963">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a65">
+      <REF_ANNOTATION ANNOTATION_ID="a105966" ANNOTATION_REF="a105965">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a68" ANNOTATION_REF="a67">
+      <REF_ANNOTATION ANNOTATION_ID="a105968" ANNOTATION_REF="a105967">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a69">
+      <REF_ANNOTATION ANNOTATION_ID="a105970" ANNOTATION_REF="a105969">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a71">
+      <REF_ANNOTATION ANNOTATION_ID="a105972" ANNOTATION_REF="a105971">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a73">
+      <REF_ANNOTATION ANNOTATION_ID="a105974" ANNOTATION_REF="a105973">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a75">
+      <REF_ANNOTATION ANNOTATION_ID="a105976" ANNOTATION_REF="a105975">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a77">
+      <REF_ANNOTATION ANNOTATION_ID="a105978" ANNOTATION_REF="a105977">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a79">
+      <REF_ANNOTATION ANNOTATION_ID="a105980" ANNOTATION_REF="a105979">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a81">
+      <REF_ANNOTATION ANNOTATION_ID="a105982" ANNOTATION_REF="a105981">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a83">
+      <REF_ANNOTATION ANNOTATION_ID="a105984" ANNOTATION_REF="a105983">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a86" ANNOTATION_REF="a85">
+      <REF_ANNOTATION ANNOTATION_ID="a105986" ANNOTATION_REF="a105985">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a88" ANNOTATION_REF="a87">
+      <REF_ANNOTATION ANNOTATION_ID="a105988" ANNOTATION_REF="a105987">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a90" ANNOTATION_REF="a89">
+      <REF_ANNOTATION ANNOTATION_ID="a105990" ANNOTATION_REF="a105989">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a92" ANNOTATION_REF="a91">
+      <REF_ANNOTATION ANNOTATION_ID="a105992" ANNOTATION_REF="a105991">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a94" ANNOTATION_REF="a93">
+      <REF_ANNOTATION ANNOTATION_ID="a105994" ANNOTATION_REF="a105993">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a96" ANNOTATION_REF="a95">
+      <REF_ANNOTATION ANNOTATION_ID="a105996" ANNOTATION_REF="a105995">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a98" ANNOTATION_REF="a97">
+      <REF_ANNOTATION ANNOTATION_ID="a105998" ANNOTATION_REF="a105997">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a100" ANNOTATION_REF="a99">
+      <REF_ANNOTATION ANNOTATION_ID="a106000" ANNOTATION_REF="a105999">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a102" ANNOTATION_REF="a101">
+      <REF_ANNOTATION ANNOTATION_ID="a106002" ANNOTATION_REF="a106001">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a103">
+      <REF_ANNOTATION ANNOTATION_ID="a106004" ANNOTATION_REF="a106003">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a105">
+      <REF_ANNOTATION ANNOTATION_ID="a106006" ANNOTATION_REF="a106005">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a108" ANNOTATION_REF="a107">
+      <REF_ANNOTATION ANNOTATION_ID="a106008" ANNOTATION_REF="a106007">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a110" ANNOTATION_REF="a109">
+      <REF_ANNOTATION ANNOTATION_ID="a106010" ANNOTATION_REF="a106009">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a112" ANNOTATION_REF="a111">
+      <REF_ANNOTATION ANNOTATION_ID="a106012" ANNOTATION_REF="a106011">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a114" ANNOTATION_REF="a113">
+      <REF_ANNOTATION ANNOTATION_ID="a106014" ANNOTATION_REF="a106013">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a116" ANNOTATION_REF="a115">
+      <REF_ANNOTATION ANNOTATION_ID="a106016" ANNOTATION_REF="a106015">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a118" ANNOTATION_REF="a117">
+      <REF_ANNOTATION ANNOTATION_ID="a106018" ANNOTATION_REF="a106017">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a120" ANNOTATION_REF="a119">
+      <REF_ANNOTATION ANNOTATION_ID="a106020" ANNOTATION_REF="a106019">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a122" ANNOTATION_REF="a121">
+      <REF_ANNOTATION ANNOTATION_ID="a106022" ANNOTATION_REF="a106021">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a124" ANNOTATION_REF="a123">
+      <REF_ANNOTATION ANNOTATION_ID="a106024" ANNOTATION_REF="a106023">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a126" ANNOTATION_REF="a125">
+      <REF_ANNOTATION ANNOTATION_ID="a106026" ANNOTATION_REF="a106025">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a128" ANNOTATION_REF="a127">
+      <REF_ANNOTATION ANNOTATION_ID="a106028" ANNOTATION_REF="a106027">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a130" ANNOTATION_REF="a129">
+      <REF_ANNOTATION ANNOTATION_ID="a106030" ANNOTATION_REF="a106029">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a132" ANNOTATION_REF="a131">
+      <REF_ANNOTATION ANNOTATION_ID="a106032" ANNOTATION_REF="a106031">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a134" ANNOTATION_REF="a133">
+      <REF_ANNOTATION ANNOTATION_ID="a106034" ANNOTATION_REF="a106033">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a136" ANNOTATION_REF="a135">
+      <REF_ANNOTATION ANNOTATION_ID="a106036" ANNOTATION_REF="a106035">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a138" ANNOTATION_REF="a137">
+      <REF_ANNOTATION ANNOTATION_ID="a106038" ANNOTATION_REF="a106037">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a140" ANNOTATION_REF="a139">
+      <REF_ANNOTATION ANNOTATION_ID="a106040" ANNOTATION_REF="a106039">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a142" ANNOTATION_REF="a141">
+      <REF_ANNOTATION ANNOTATION_ID="a106042" ANNOTATION_REF="a106041">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a144" ANNOTATION_REF="a143">
+      <REF_ANNOTATION ANNOTATION_ID="a106044" ANNOTATION_REF="a106043">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a146" ANNOTATION_REF="a145">
+      <REF_ANNOTATION ANNOTATION_ID="a106046" ANNOTATION_REF="a106045">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a148" ANNOTATION_REF="a147">
+      <REF_ANNOTATION ANNOTATION_ID="a106048" ANNOTATION_REF="a106047">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a150" ANNOTATION_REF="a149">
+      <REF_ANNOTATION ANNOTATION_ID="a106050" ANNOTATION_REF="a106049">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a152" ANNOTATION_REF="a151">
+      <REF_ANNOTATION ANNOTATION_ID="a106052" ANNOTATION_REF="a106051">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a154" ANNOTATION_REF="a153">
+      <REF_ANNOTATION ANNOTATION_ID="a106054" ANNOTATION_REF="a106053">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a156" ANNOTATION_REF="a155">
+      <REF_ANNOTATION ANNOTATION_ID="a106056" ANNOTATION_REF="a106055">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a158" ANNOTATION_REF="a157">
+      <REF_ANNOTATION ANNOTATION_ID="a106058" ANNOTATION_REF="a106057">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a160" ANNOTATION_REF="a159">
+      <REF_ANNOTATION ANNOTATION_ID="a106060" ANNOTATION_REF="a106059">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a162" ANNOTATION_REF="a161">
+      <REF_ANNOTATION ANNOTATION_ID="a106062" ANNOTATION_REF="a106061">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a164" ANNOTATION_REF="a163">
+      <REF_ANNOTATION ANNOTATION_ID="a106064" ANNOTATION_REF="a106063">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a166" ANNOTATION_REF="a165">
+      <REF_ANNOTATION ANNOTATION_ID="a106066" ANNOTATION_REF="a106065">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a168" ANNOTATION_REF="a167">
+      <REF_ANNOTATION ANNOTATION_ID="a106068" ANNOTATION_REF="a106067">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a170" ANNOTATION_REF="a169">
+      <REF_ANNOTATION ANNOTATION_ID="a106070" ANNOTATION_REF="a106069">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a172" ANNOTATION_REF="a171">
+      <REF_ANNOTATION ANNOTATION_ID="a106072" ANNOTATION_REF="a106071">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a174" ANNOTATION_REF="a173">
+      <REF_ANNOTATION ANNOTATION_ID="a106074" ANNOTATION_REF="a106073">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a176" ANNOTATION_REF="a175">
+      <REF_ANNOTATION ANNOTATION_ID="a106076" ANNOTATION_REF="a106075">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a178" ANNOTATION_REF="a177">
+      <REF_ANNOTATION ANNOTATION_ID="a106078" ANNOTATION_REF="a106077">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a180" ANNOTATION_REF="a179">
+      <REF_ANNOTATION ANNOTATION_ID="a106080" ANNOTATION_REF="a106079">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a182" ANNOTATION_REF="a181">
+      <REF_ANNOTATION ANNOTATION_ID="a106082" ANNOTATION_REF="a106081">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a184" ANNOTATION_REF="a183">
+      <REF_ANNOTATION ANNOTATION_ID="a106084" ANNOTATION_REF="a106083">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a186" ANNOTATION_REF="a185">
+      <REF_ANNOTATION ANNOTATION_ID="a106086" ANNOTATION_REF="a106085">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a188" ANNOTATION_REF="a187">
+      <REF_ANNOTATION ANNOTATION_ID="a106088" ANNOTATION_REF="a106087">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a190" ANNOTATION_REF="a189">
+      <REF_ANNOTATION ANNOTATION_ID="a106090" ANNOTATION_REF="a106089">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a192" ANNOTATION_REF="a191">
+      <REF_ANNOTATION ANNOTATION_ID="a106092" ANNOTATION_REF="a106091">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a194" ANNOTATION_REF="a193">
+      <REF_ANNOTATION ANNOTATION_ID="a106094" ANNOTATION_REF="a106093">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a196" ANNOTATION_REF="a195">
+      <REF_ANNOTATION ANNOTATION_ID="a106096" ANNOTATION_REF="a106095">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a198" ANNOTATION_REF="a197">
+      <REF_ANNOTATION ANNOTATION_ID="a106098" ANNOTATION_REF="a106097">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a200" ANNOTATION_REF="a199">
+      <REF_ANNOTATION ANNOTATION_ID="a106100" ANNOTATION_REF="a106099">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a202" ANNOTATION_REF="a201">
+      <REF_ANNOTATION ANNOTATION_ID="a106102" ANNOTATION_REF="a106101">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a204" ANNOTATION_REF="a203">
+      <REF_ANNOTATION ANNOTATION_ID="a106104" ANNOTATION_REF="a106103">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a206" ANNOTATION_REF="a205">
+      <REF_ANNOTATION ANNOTATION_ID="a106106" ANNOTATION_REF="a106105">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a208" ANNOTATION_REF="a207">
+      <REF_ANNOTATION ANNOTATION_ID="a106108" ANNOTATION_REF="a106107">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a210" ANNOTATION_REF="a209">
+      <REF_ANNOTATION ANNOTATION_ID="a106110" ANNOTATION_REF="a106109">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a212" ANNOTATION_REF="a211">
+      <REF_ANNOTATION ANNOTATION_ID="a106112" ANNOTATION_REF="a106111">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a214" ANNOTATION_REF="a213">
+      <REF_ANNOTATION ANNOTATION_ID="a106114" ANNOTATION_REF="a106113">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a216" ANNOTATION_REF="a215">
+      <REF_ANNOTATION ANNOTATION_ID="a106116" ANNOTATION_REF="a106115">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a218" ANNOTATION_REF="a217">
+      <REF_ANNOTATION ANNOTATION_ID="a106118" ANNOTATION_REF="a106117">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a220" ANNOTATION_REF="a219">
+      <REF_ANNOTATION ANNOTATION_ID="a106120" ANNOTATION_REF="a106119">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a222" ANNOTATION_REF="a221">
+      <REF_ANNOTATION ANNOTATION_ID="a106122" ANNOTATION_REF="a106121">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a224" ANNOTATION_REF="a223">
+      <REF_ANNOTATION ANNOTATION_ID="a106124" ANNOTATION_REF="a106123">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a226" ANNOTATION_REF="a225">
+      <REF_ANNOTATION ANNOTATION_ID="a106126" ANNOTATION_REF="a106125">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a228" ANNOTATION_REF="a227">
+      <REF_ANNOTATION ANNOTATION_ID="a106128" ANNOTATION_REF="a106127">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a230" ANNOTATION_REF="a229">
+      <REF_ANNOTATION ANNOTATION_ID="a106130" ANNOTATION_REF="a106129">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a232" ANNOTATION_REF="a231">
+      <REF_ANNOTATION ANNOTATION_ID="a106132" ANNOTATION_REF="a106131">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a234" ANNOTATION_REF="a233">
+      <REF_ANNOTATION ANNOTATION_ID="a106134" ANNOTATION_REF="a106133">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a236" ANNOTATION_REF="a235">
+      <REF_ANNOTATION ANNOTATION_ID="a106136" ANNOTATION_REF="a106135">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a238" ANNOTATION_REF="a237">
+      <REF_ANNOTATION ANNOTATION_ID="a106138" ANNOTATION_REF="a106137">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a240" ANNOTATION_REF="a239">
+      <REF_ANNOTATION ANNOTATION_ID="a106140" ANNOTATION_REF="a106139">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a242" ANNOTATION_REF="a241">
+      <REF_ANNOTATION ANNOTATION_ID="a106142" ANNOTATION_REF="a106141">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a244" ANNOTATION_REF="a243">
+      <REF_ANNOTATION ANNOTATION_ID="a106144" ANNOTATION_REF="a106143">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a246" ANNOTATION_REF="a245">
+      <REF_ANNOTATION ANNOTATION_ID="a106146" ANNOTATION_REF="a106145">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a248" ANNOTATION_REF="a247">
+      <REF_ANNOTATION ANNOTATION_ID="a106148" ANNOTATION_REF="a106147">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a250" ANNOTATION_REF="a249">
+      <REF_ANNOTATION ANNOTATION_ID="a106150" ANNOTATION_REF="a106149">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a252" ANNOTATION_REF="a251">
+      <REF_ANNOTATION ANNOTATION_ID="a106152" ANNOTATION_REF="a106151">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a254" ANNOTATION_REF="a253">
+      <REF_ANNOTATION ANNOTATION_ID="a106154" ANNOTATION_REF="a106153">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a256" ANNOTATION_REF="a255">
+      <REF_ANNOTATION ANNOTATION_ID="a106156" ANNOTATION_REF="a106155">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a258" ANNOTATION_REF="a257">
+      <REF_ANNOTATION ANNOTATION_ID="a106158" ANNOTATION_REF="a106157">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a260" ANNOTATION_REF="a259">
+      <REF_ANNOTATION ANNOTATION_ID="a106160" ANNOTATION_REF="a106159">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a262" ANNOTATION_REF="a261">
+      <REF_ANNOTATION ANNOTATION_ID="a106162" ANNOTATION_REF="a106161">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a264" ANNOTATION_REF="a263">
+      <REF_ANNOTATION ANNOTATION_ID="a106164" ANNOTATION_REF="a106163">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a266" ANNOTATION_REF="a265">
+      <REF_ANNOTATION ANNOTATION_ID="a106166" ANNOTATION_REF="a106165">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a268" ANNOTATION_REF="a267">
+      <REF_ANNOTATION ANNOTATION_ID="a106168" ANNOTATION_REF="a106167">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a270" ANNOTATION_REF="a269">
+      <REF_ANNOTATION ANNOTATION_ID="a106170" ANNOTATION_REF="a106169">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a272" ANNOTATION_REF="a271">
+      <REF_ANNOTATION ANNOTATION_ID="a106172" ANNOTATION_REF="a106171">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a274" ANNOTATION_REF="a273">
+      <REF_ANNOTATION ANNOTATION_ID="a106174" ANNOTATION_REF="a106173">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a276" ANNOTATION_REF="a275">
+      <REF_ANNOTATION ANNOTATION_ID="a106176" ANNOTATION_REF="a106175">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a278" ANNOTATION_REF="a277">
+      <REF_ANNOTATION ANNOTATION_ID="a106178" ANNOTATION_REF="a106177">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a280" ANNOTATION_REF="a279">
+      <REF_ANNOTATION ANNOTATION_ID="a106180" ANNOTATION_REF="a106179">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a282" ANNOTATION_REF="a281">
+      <REF_ANNOTATION ANNOTATION_ID="a106182" ANNOTATION_REF="a106181">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a284" ANNOTATION_REF="a283">
+      <REF_ANNOTATION ANNOTATION_ID="a106184" ANNOTATION_REF="a106183">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a286" ANNOTATION_REF="a285">
+      <REF_ANNOTATION ANNOTATION_ID="a106186" ANNOTATION_REF="a106185">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a288" ANNOTATION_REF="a287">
+      <REF_ANNOTATION ANNOTATION_ID="a106188" ANNOTATION_REF="a106187">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a290" ANNOTATION_REF="a289">
+      <REF_ANNOTATION ANNOTATION_ID="a106190" ANNOTATION_REF="a106189">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a292" ANNOTATION_REF="a291">
+      <REF_ANNOTATION ANNOTATION_ID="a106192" ANNOTATION_REF="a106191">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a294" ANNOTATION_REF="a293">
+      <REF_ANNOTATION ANNOTATION_ID="a106194" ANNOTATION_REF="a106193">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a296" ANNOTATION_REF="a295">
+      <REF_ANNOTATION ANNOTATION_ID="a106196" ANNOTATION_REF="a106195">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a298" ANNOTATION_REF="a297">
+      <REF_ANNOTATION ANNOTATION_ID="a106198" ANNOTATION_REF="a106197">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
-      <REF_ANNOTATION ANNOTATION_ID="a300" ANNOTATION_REF="a299">
+      <REF_ANNOTATION ANNOTATION_ID="a106200" ANNOTATION_REF="a106199">
         <ANNOTATION_VALUE></ANNOTATION_VALUE>
       </REF_ANNOTATION>
     </ANNOTATION>
